@@ -40,29 +40,15 @@ Powered by \[Qwen3-4B-Coder](https://huggingface.co/08210821iy/Qwen3-4B-Coder), 
 
 ```bash
 
-\# 1. Clone this repository
-
 git clone https://github.com/jiexiang018-tech/ai-python-agent.git
 
 cd ai-python-agent
 
-
-
-\# 2. Install dependencies
-
 pip install -r requirements.txt
-
-
-
-\# 3. Run setup (downloads model ~2.3 GB)
 
 python setup.py
 
-
-
-\# 4. Start the agent
-
 python agent.py
 
-
+```　
 
