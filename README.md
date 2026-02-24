@@ -42,9 +42,9 @@ Powered by \[Qwen3-4B-Coder](https://huggingface.co/08210821iy/Qwen3-4B-Coder), 
 
 \# 1. Clone this repository
 
-git clone https://github.com/08210821iy/ai-code-agent.git
+git clone https://github.com/jiexiang018-tech/ai-python-agent.git
 
-cd ai-code-agent
+cd ai-python-agent
 
 
 
